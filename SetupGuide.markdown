@@ -361,7 +361,7 @@ To restore:
 *Backup folder with `.tar` files.*<br><br>  
 - **Bonus Workflow-Bulk Entry**:<br>
 <img src="images/bulk-workflow.bmp" alt="Bulk Entry Workflow" width="600"><br>
-*If you need it I can give you FREE Bulk Entry Workflow.*<br><br>  
+*If you need it I can give you FREE Bulk Entry Workflow, let me know!*<br><br>  
 
 
 ## Troubleshooting
