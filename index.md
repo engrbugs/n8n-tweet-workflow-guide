@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 # n8n Tweet Management Workflow with PostgreSQL - Setup Guide
 <img src="images/workflow-canvas.bmp" alt="Initial Form showing" width="800"><br>
 *Full n8n workflow canvas.*<br><br>  
