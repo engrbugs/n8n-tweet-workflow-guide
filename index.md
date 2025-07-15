@@ -365,7 +365,7 @@ To restore:
 *Backup folder with `.tar` files.*<br><br>  
 - **Bonus Workflow-Bulk Entry**:<br>
 <img src="images/bulk-workflow.bmp" alt="Bulk Entry Workflow" width="600"><br>
-*If you need it I can give you FREE Bulk Entry Workflow, let me know!*<br><br>  
+*If you need it I can give you FREE Bulk Entry Workflow, let us know!*<br><br>  
 
 
 ## Troubleshooting
@@ -377,3 +377,4 @@ To restore:
 ## Support and Community
 - **Community**: [community.n8n.io](https://community.n8n.io).
 - **Docs**: [docs.n8n.io](https://docs.n8n.io), [postgresql.org/docs](https://www.postgresql.org/docs).
+- **Core Workflow**: [gumroad.com](https://enrgbugs.gumroad.com/l/n8n-tweet-management-workflow).
