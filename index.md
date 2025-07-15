@@ -1,5 +1,8 @@
 # n8n Tweet Management Workflow with PostgreSQL - Setup Guide
 
+<img src="images/workflow-canvas.bmp" alt="Initial Form showing" width="800"><br>
+*Full n8n workflow canvas.*<br><br>  
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Purpose and Features](#purpose-and-features)
@@ -7,7 +10,7 @@
 4. [Installation](#installation)
    - [Option 1: Standalone n8n Installation](#option-1-standalone-n8n-installation)
    - [Option 2: Containerized n8n Installation (Docker)](#option-2-containerized-n8n-installation-docker)
-   - [Optional: Docker Compose with Backup](#optional-docker-compose-with-backup)
+   - [Optional: Docker Compose with Backup (Bonus)](#optional-docker-compose-with-backup)
    - [Importing the Workflow](#importing-the-workflow)
    - [Configuring PostgreSQL Credentials](#configuring-postgresql-credentials)
 5. [Backup Process](#backup-process)
@@ -148,6 +151,7 @@ Uses Docker for a portable, isolated environment, suitable for production or tes
      ```
 
 ### Optional: Docker Compose with Backup
+### (Bonus)
 This setup includes n8n, PostgreSQL, and a backup service for data protection. Replace placeholders with your values.
 
 ```yaml
@@ -211,7 +215,7 @@ networks:
 1. Save as `docker-compose.yml`.
 2. Replace `/path/to/your/desktop` with a local folder for file access in the n8n container.
 3. Replace `/path/to/backup/folder` with a local directory for backups.
-4. Create a `backup.sh` script in the backup folder:
+4. Create a `backup.sh` script in the backup folder: (Bonus)
    ```bash
    #!/bin/bash
    BACKUP_DIR="/backup"
